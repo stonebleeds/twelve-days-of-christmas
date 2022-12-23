@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/python2.7
 #prints out entire lyrics to The 12 Days Of Christmas
 #v0.3
 import sys
